@@ -13,8 +13,12 @@ Installing and running the project:
 - npm install
 - npm start
 
-Technology stack:
+Preview links:
+![image](https://github.com/NikaNika12/LayoutDia-landing-page/assets/102893905/651cc308-f567-4adb-86bb-6f07286a06e6)
+![image](https://github.com/NikaNika12/LayoutDia-landing-page/assets/102893905/f047ae53-ba1f-4a60-bd3d-5d9e4a058c3c)
+![image](https://github.com/NikaNika12/LayoutDia-landing-page/assets/102893905/6f9f88a2-2073-4c2a-b0ba-3dfcad28e1bb)
 
+Technology stack:
 - HTML5: BEM methodology, layout according to the layout in Figma;
 - CSS3 and SCSS preprocessor: grid layout, flexbox, positioning, adaptive UI, media queries;
 - JavaScript.
